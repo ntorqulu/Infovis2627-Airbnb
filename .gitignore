@@ -1,3 +1,7 @@
+# do not track zip files, too big for github
 calendar.csv/
-calendar.csv
-__MACOSX/
+calendar.csv/calendar.csv
+calendar.csv/__MACOSX/
+listings-2.csv/
+listings-2.csv/listings-2.csv
+listings-2.csv/__MACOSX/
